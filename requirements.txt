@@ -1,0 +1,9 @@
+pandas
+numpy
+requests
+python-dateutil
+scikit-learn
+xgboost
+joblib
+pyarrow
+duckdb

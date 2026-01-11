@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Data (keep raw/seed json but ignore generated outputs if you prefer)
+data/interim/*
+data/processed/*
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS / Editor
+.DS_Store
+.vscode/settings.json
+
+# Power BI
+*.pbi
+*.pbix
+*.pbit
+powerbi/*.pbix
+powerbi/*.pbit
