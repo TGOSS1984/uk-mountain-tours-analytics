@@ -113,6 +113,11 @@ def run(all_steps: bool = True, skip_weather: bool = False, skip_sql: bool = Fal
             from src.sql.build_duckdb import build_duckdb
             build_duckdb()
 
+        with step("PBI: export Excel extracts"):
+            from src.pbi.export_excel import export_excel
+            export_excel()
+
+
 
 
 

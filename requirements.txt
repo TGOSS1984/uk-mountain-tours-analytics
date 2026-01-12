@@ -7,3 +7,4 @@ xgboost
 joblib
 pyarrow
 duckdb
+openpyxl>=3.1
