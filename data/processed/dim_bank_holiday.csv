@@ -1,0 +1,280 @@
+bank_holiday_id,date,division,title,notes,bunting
+223294570121,2019-01-01,england-and-wales,New Year’s Day,,True
+93200222793,2019-01-01,northern-ireland,New Year’s Day,,True
+70583139432,2019-01-01,scotland,New Year’s Day,,True
+771017258411,2019-01-02,scotland,2nd January,,True
+343650781748,2019-03-18,northern-ireland,St Patrick’s Day,Substitute day,True
+351939798565,2019-04-19,england-and-wales,Good Friday,,False
+560115978139,2019-04-19,northern-ireland,Good Friday,,False
+269450549278,2019-04-19,scotland,Good Friday,,False
+576957625388,2019-04-22,england-and-wales,Easter Monday,,True
+398223670322,2019-04-22,northern-ireland,Easter Monday,,True
+103876000148,2019-05-06,england-and-wales,Early May bank holiday,,True
+759062347963,2019-05-06,northern-ireland,Early May bank holiday,,True
+467834562224,2019-05-06,scotland,Early May bank holiday,,True
+328030114634,2019-05-27,england-and-wales,Spring bank holiday,,True
+514583098720,2019-05-27,northern-ireland,Spring bank holiday,,True
+388840935029,2019-05-27,scotland,Spring bank holiday,,True
+584735522883,2019-07-12,northern-ireland,Battle of the Boyne (Orangemen’s Day),,False
+426904918780,2019-08-05,scotland,Summer bank holiday,,True
+499518889203,2019-08-26,england-and-wales,Summer bank holiday,,True
+884923360259,2019-08-26,northern-ireland,Summer bank holiday,,True
+878555402623,2019-12-02,scotland,St Andrew’s Day,Substitute day,True
+85367288806,2019-12-25,england-and-wales,Christmas Day,,True
+757743269251,2019-12-25,northern-ireland,Christmas Day,,True
+623242910179,2019-12-25,scotland,Christmas Day,,True
+889170565692,2019-12-26,england-and-wales,Boxing Day,,True
+964237958544,2019-12-26,northern-ireland,Boxing Day,,True
+543840689448,2019-12-26,scotland,Boxing Day,,True
+730533434035,2020-01-01,england-and-wales,New Year’s Day,,True
+250242551907,2020-01-01,northern-ireland,New Year’s Day,,True
+219623091516,2020-01-01,scotland,New Year’s Day,,True
+381430076699,2020-01-02,scotland,2nd January,,True
+278688450998,2020-03-17,northern-ireland,St Patrick’s Day,,True
+416083637834,2020-04-10,england-and-wales,Good Friday,,False
+838294073545,2020-04-10,northern-ireland,Good Friday,,False
+317554888394,2020-04-10,scotland,Good Friday,,False
+937532374445,2020-04-13,england-and-wales,Easter Monday,,False
+481481880096,2020-04-13,northern-ireland,Easter Monday,,False
+363213410702,2020-05-08,england-and-wales,Early May bank holiday (VE day),,True
+260834383575,2020-05-08,northern-ireland,Early May bank holiday (VE day),,True
+473723552620,2020-05-08,scotland,Early May bank holiday (VE day),,True
+833055332250,2020-05-25,england-and-wales,Spring bank holiday,,True
+24523870620,2020-05-25,northern-ireland,Spring bank holiday,,True
+710723627829,2020-05-25,scotland,Spring bank holiday,,True
+972067403062,2020-07-13,northern-ireland,Battle of the Boyne (Orangemen’s Day),Substitute day,False
+482479524987,2020-08-03,scotland,Summer bank holiday,,True
+78618110064,2020-08-31,england-and-wales,Summer bank holiday,,True
+106552255009,2020-08-31,northern-ireland,Summer bank holiday,,True
+127827407553,2020-11-30,scotland,St Andrew’s Day,,True
+319404928172,2020-12-25,england-and-wales,Christmas Day,,True
+346384262446,2020-12-25,northern-ireland,Christmas Day,,True
+649361189868,2020-12-25,scotland,Christmas Day,,True
+525889166218,2020-12-28,england-and-wales,Boxing Day,Substitute day,True
+617258755341,2020-12-28,northern-ireland,Boxing Day,Substitute day,True
+312904904506,2020-12-28,scotland,Boxing Day,Substitute day,True
+345790807612,2021-01-01,england-and-wales,New Year’s Day,,True
+33562486990,2021-01-01,northern-ireland,New Year’s Day,,True
+797455419184,2021-01-01,scotland,New Year’s Day,,True
+977762168889,2021-01-04,scotland,2nd January,Substitute day,True
+92235895551,2021-03-17,northern-ireland,St Patrick’s Day,,True
+211346816379,2021-04-02,england-and-wales,Good Friday,,False
+398897930210,2021-04-02,northern-ireland,Good Friday,,False
+369407559901,2021-04-02,scotland,Good Friday,,False
+663998460942,2021-04-05,england-and-wales,Easter Monday,,True
+821350967794,2021-04-05,northern-ireland,Easter Monday,,True
+385105700340,2021-05-03,england-and-wales,Early May bank holiday,,True
+44869041347,2021-05-03,northern-ireland,Early May bank holiday,,True
+829792476917,2021-05-03,scotland,Early May bank holiday,,True
+800050540979,2021-05-31,england-and-wales,Spring bank holiday,,True
+709559897321,2021-05-31,northern-ireland,Spring bank holiday,,True
+909547562260,2021-05-31,scotland,Spring bank holiday,,True
+572829327973,2021-07-12,northern-ireland,Battle of the Boyne (Orangemen’s Day),,False
+664271234312,2021-08-02,scotland,Summer bank holiday,,True
+904595595549,2021-08-30,england-and-wales,Summer bank holiday,,True
+189596138134,2021-08-30,northern-ireland,Summer bank holiday,,True
+300193518942,2021-11-30,scotland,St Andrew’s Day,,True
+463306164358,2021-12-27,england-and-wales,Christmas Day,Substitute day,True
+542755433238,2021-12-27,northern-ireland,Christmas Day,Substitute day,True
+511225171741,2021-12-27,scotland,Christmas Day,Substitute day,True
+32287971936,2021-12-28,england-and-wales,Boxing Day,Substitute day,True
+18441562015,2021-12-28,northern-ireland,Boxing Day,Substitute day,True
+396450800610,2021-12-28,scotland,Boxing Day,Substitute day,True
+75316873179,2022-01-03,england-and-wales,New Year’s Day,Substitute day,True
+868695374871,2022-01-03,northern-ireland,New Year’s Day,Substitute day,True
+647469461437,2022-01-03,scotland,New Year’s Day,Substitute day,True
+33766945354,2022-01-04,scotland,2nd January,Substitute day,True
+753980695100,2022-03-17,northern-ireland,St Patrick’s Day,,True
+803899199881,2022-04-15,england-and-wales,Good Friday,,False
+617927868412,2022-04-15,northern-ireland,Good Friday,,False
+978177796219,2022-04-15,scotland,Good Friday,,False
+859886327002,2022-04-18,england-and-wales,Easter Monday,,True
+790535620694,2022-04-18,northern-ireland,Easter Monday,,True
+15411006577,2022-05-02,england-and-wales,Early May bank holiday,,True
+515879292454,2022-05-02,northern-ireland,Early May bank holiday,,True
+547969842456,2022-05-02,scotland,Early May bank holiday,,True
+173753501413,2022-06-02,england-and-wales,Spring bank holiday,,True
+651008948540,2022-06-02,northern-ireland,Spring bank holiday,,True
+981945257971,2022-06-02,scotland,Spring bank holiday,,True
+230403610568,2022-06-03,england-and-wales,Platinum Jubilee bank holiday,,True
+300180212248,2022-06-03,northern-ireland,Platinum Jubilee bank holiday,,True
+464104528014,2022-06-03,scotland,Platinum Jubilee bank holiday,,True
+619802792153,2022-07-12,northern-ireland,Battle of the Boyne (Orangemen’s Day),,False
+369587734945,2022-08-01,scotland,Summer bank holiday,,True
+627546259958,2022-08-29,england-and-wales,Summer bank holiday,,True
+44581662588,2022-08-29,northern-ireland,Summer bank holiday,,True
+84577665215,2022-09-19,england-and-wales,Bank Holiday for the State Funeral of Queen Elizabeth II,,False
+663708622671,2022-09-19,northern-ireland,Bank Holiday for the State Funeral of Queen Elizabeth II,,False
+800359484961,2022-09-19,scotland,Bank Holiday for the State Funeral of Queen Elizabeth II,,False
+618401383796,2022-11-30,scotland,St Andrew’s Day,,True
+877045992101,2022-12-26,england-and-wales,Boxing Day,,True
+87108020798,2022-12-26,northern-ireland,Boxing Day,,True
+107015774556,2022-12-26,scotland,Boxing Day,,True
+946130059548,2022-12-27,england-and-wales,Christmas Day,Substitute day,True
+774779422306,2022-12-27,northern-ireland,Christmas Day,Substitute day,True
+431419282477,2022-12-27,scotland,Christmas Day,Substitute day,True
+193737802691,2023-01-02,england-and-wales,New Year’s Day,Substitute day,True
+131146735067,2023-01-02,northern-ireland,New Year’s Day,Substitute day,True
+445288835383,2023-01-02,scotland,New Year’s Day,Substitute day,True
+893428364500,2023-01-03,scotland,2nd January,Substitute day,True
+904451426189,2023-03-17,northern-ireland,St Patrick’s Day,,True
+10294144341,2023-04-07,england-and-wales,Good Friday,,False
+105246042658,2023-04-07,northern-ireland,Good Friday,,False
+760425411954,2023-04-07,scotland,Good Friday,,False
+137576705428,2023-04-10,england-and-wales,Easter Monday,,True
+881252048703,2023-04-10,northern-ireland,Easter Monday,,True
+124697610900,2023-05-01,england-and-wales,Early May bank holiday,,True
+570080997606,2023-05-01,northern-ireland,Early May bank holiday,,True
+523847863633,2023-05-01,scotland,Early May bank holiday,,True
+498393021828,2023-05-08,england-and-wales,Bank holiday for the coronation of King Charles III,,True
+511168603052,2023-05-08,northern-ireland,Bank holiday for the coronation of King Charles III,,True
+822525644199,2023-05-08,scotland,Bank holiday for the coronation of King Charles III,,True
+316791396064,2023-05-29,england-and-wales,Spring bank holiday,,True
+641126917737,2023-05-29,northern-ireland,Spring bank holiday,,True
+59052910702,2023-05-29,scotland,Spring bank holiday,,True
+987553459878,2023-07-12,northern-ireland,Battle of the Boyne (Orangemen’s Day),,False
+758934250672,2023-08-07,scotland,Summer bank holiday,,True
+716044301910,2023-08-28,england-and-wales,Summer bank holiday,,True
+825545734614,2023-08-28,northern-ireland,Summer bank holiday,,True
+811338230532,2023-11-30,scotland,St Andrew’s Day,,True
+877371800628,2023-12-25,england-and-wales,Christmas Day,,True
+804910925989,2023-12-25,northern-ireland,Christmas Day,,True
+379806220967,2023-12-25,scotland,Christmas Day,,True
+864360461795,2023-12-26,england-and-wales,Boxing Day,,True
+18655048248,2023-12-26,northern-ireland,Boxing Day,,True
+589724374253,2023-12-26,scotland,Boxing Day,,True
+754092435003,2024-01-01,england-and-wales,New Year’s Day,,True
+928714428193,2024-01-01,northern-ireland,New Year’s Day,,True
+740038875858,2024-01-01,scotland,New Year’s Day,,True
+699769872992,2024-01-02,scotland,2nd January,,True
+755034461778,2024-03-18,northern-ireland,St Patrick’s Day,Substitute day,True
+642408950096,2024-03-29,england-and-wales,Good Friday,,False
+758897559817,2024-03-29,northern-ireland,Good Friday,,False
+141965192372,2024-03-29,scotland,Good Friday,,False
+805558094470,2024-04-01,england-and-wales,Easter Monday,,True
+300399963414,2024-04-01,northern-ireland,Easter Monday,,True
+225908516091,2024-05-06,england-and-wales,Early May bank holiday,,True
+845654680876,2024-05-06,northern-ireland,Early May bank holiday,,True
+234525937252,2024-05-06,scotland,Early May bank holiday,,True
+657428410966,2024-05-27,england-and-wales,Spring bank holiday,,True
+216383496773,2024-05-27,northern-ireland,Spring bank holiday,,True
+223410882781,2024-05-27,scotland,Spring bank holiday,,True
+126300109491,2024-07-12,northern-ireland,Battle of the Boyne (Orangemen’s Day),,False
+423772976150,2024-08-05,scotland,Summer bank holiday,,True
+747688995979,2024-08-26,england-and-wales,Summer bank holiday,,True
+129007448319,2024-08-26,northern-ireland,Summer bank holiday,,True
+186632147324,2024-12-02,scotland,St Andrew’s Day,Substitute day,True
+898493778990,2024-12-25,england-and-wales,Christmas Day,,True
+265764060616,2024-12-25,northern-ireland,Christmas Day,,True
+847093871441,2024-12-25,scotland,Christmas Day,,True
+288122098140,2024-12-26,england-and-wales,Boxing Day,,True
+511348733139,2024-12-26,northern-ireland,Boxing Day,,True
+864026580129,2024-12-26,scotland,Boxing Day,,True
+733452494187,2025-01-01,england-and-wales,New Year’s Day,,True
+271445129870,2025-01-01,northern-ireland,New Year’s Day,,True
+402448505036,2025-01-01,scotland,New Year’s Day,,True
+547998056558,2025-01-02,scotland,2nd January,,True
+340969842476,2025-03-17,northern-ireland,St Patrick’s Day,,True
+341604616751,2025-04-18,england-and-wales,Good Friday,,False
+541271770002,2025-04-18,northern-ireland,Good Friday,,False
+555018705316,2025-04-18,scotland,Good Friday,,False
+219980636012,2025-04-21,england-and-wales,Easter Monday,,True
+745567999334,2025-04-21,northern-ireland,Easter Monday,,True
+787193574368,2025-05-05,england-and-wales,Early May bank holiday,,True
+203358616027,2025-05-05,northern-ireland,Early May bank holiday,,True
+372408455119,2025-05-05,scotland,Early May bank holiday,,True
+942538829208,2025-05-26,england-and-wales,Spring bank holiday,,True
+73658434702,2025-05-26,northern-ireland,Spring bank holiday,,True
+590261431781,2025-05-26,scotland,Spring bank holiday,,True
+754879079701,2025-07-14,northern-ireland,Battle of the Boyne (Orangemen’s Day),Substitute day,False
+424002153133,2025-08-04,scotland,Summer bank holiday,,True
+549164932086,2025-08-25,england-and-wales,Summer bank holiday,,True
+972219417486,2025-08-25,northern-ireland,Summer bank holiday,,True
+276330220234,2025-12-01,scotland,St Andrew’s Day,Substitute day,True
+419098484759,2025-12-25,england-and-wales,Christmas Day,,True
+330919494491,2025-12-25,northern-ireland,Christmas Day,,True
+88055646934,2025-12-25,scotland,Christmas Day,,True
+739990633714,2025-12-26,england-and-wales,Boxing Day,,True
+51729646924,2025-12-26,northern-ireland,Boxing Day,,True
+538127968409,2025-12-26,scotland,Boxing Day,,True
+315891207762,2026-01-01,england-and-wales,New Year’s Day,,True
+433857308522,2026-01-01,northern-ireland,New Year’s Day,,True
+633471640115,2026-01-01,scotland,New Year’s Day,,True
+480647969462,2026-01-02,scotland,2nd January,,True
+567566226832,2026-03-17,northern-ireland,St Patrick’s Day,,True
+454242563349,2026-04-03,england-and-wales,Good Friday,,False
+807083822554,2026-04-03,northern-ireland,Good Friday,,False
+761935468662,2026-04-03,scotland,Good Friday,,False
+775094205821,2026-04-06,england-and-wales,Easter Monday,,True
+673848978722,2026-04-06,northern-ireland,Easter Monday,,True
+638424647318,2026-05-04,england-and-wales,Early May bank holiday,,True
+2427774796,2026-05-04,northern-ireland,Early May bank holiday,,True
+374787121121,2026-05-04,scotland,Early May bank holiday,,True
+363854584865,2026-05-25,england-and-wales,Spring bank holiday,,True
+694008086981,2026-05-25,northern-ireland,Spring bank holiday,,True
+220995777172,2026-05-25,scotland,Spring bank holiday,,True
+927402027806,2026-07-13,northern-ireland,Battle of the Boyne (Orangemen’s Day),Substitute day,False
+129210934773,2026-08-03,scotland,Summer bank holiday,,True
+642725874185,2026-08-31,england-and-wales,Summer bank holiday,,True
+450727145400,2026-08-31,northern-ireland,Summer bank holiday,,True
+429159009819,2026-11-30,scotland,St Andrew’s Day,,True
+540809063574,2026-12-25,england-and-wales,Christmas Day,,True
+96118724630,2026-12-25,northern-ireland,Christmas Day,,True
+36529237375,2026-12-25,scotland,Christmas Day,,True
+310468918192,2026-12-28,england-and-wales,Boxing Day,Substitute day,True
+433527553579,2026-12-28,northern-ireland,Boxing Day,Substitute day,True
+197518947551,2026-12-28,scotland,Boxing Day,Substitute day,True
+93609112924,2027-01-01,england-and-wales,New Year’s Day,,True
+192727787642,2027-01-01,northern-ireland,New Year’s Day,,True
+745183884221,2027-01-01,scotland,New Year’s Day,,True
+550316709776,2027-01-04,scotland,2nd January,Substitute day,True
+773085140669,2027-03-17,northern-ireland,St Patrick’s Day,,True
+232756793565,2027-03-26,england-and-wales,Good Friday,,False
+964447769063,2027-03-26,northern-ireland,Good Friday,,False
+24470033508,2027-03-26,scotland,Good Friday,,False
+407939578394,2027-03-29,england-and-wales,Easter Monday,,True
+771138711522,2027-03-29,northern-ireland,Easter Monday,,True
+555550900078,2027-05-03,england-and-wales,Early May bank holiday,,True
+128832057111,2027-05-03,northern-ireland,Early May bank holiday,,True
+382371167833,2027-05-03,scotland,Early May bank holiday,,True
+616692473038,2027-05-31,england-and-wales,Spring bank holiday,,True
+158329237663,2027-05-31,northern-ireland,Spring bank holiday,,True
+145970373154,2027-05-31,scotland,Spring bank holiday,,True
+843715930144,2027-07-12,northern-ireland,Battle of the Boyne (Orangemen’s Day),,False
+688668006446,2027-08-02,scotland,Summer bank holiday,,True
+113648410890,2027-08-30,england-and-wales,Summer bank holiday,,True
+400911211268,2027-08-30,northern-ireland,Summer bank holiday,,True
+517434499977,2027-11-30,scotland,St Andrew’s Day,,True
+809300610385,2027-12-27,england-and-wales,Christmas Day,Substitute day,True
+108671182639,2027-12-27,northern-ireland,Christmas Day,Substitute day,True
+146779671060,2027-12-27,scotland,Christmas Day,Substitute day,True
+971817673947,2027-12-28,england-and-wales,Boxing Day,Substitute day,True
+98452660976,2027-12-28,northern-ireland,Boxing Day,Substitute day,True
+481277939176,2027-12-28,scotland,Boxing Day,Substitute day,True
+703005159525,2028-01-03,england-and-wales,New Year’s Day,Substitute day,True
+939503409696,2028-01-03,northern-ireland,New Year’s Day,Substitute day,True
+666225135740,2028-01-03,scotland,New Year’s Day,Substitute day,True
+885499437644,2028-01-04,scotland,2nd January,Substitute day,True
+497193116047,2028-03-17,northern-ireland,St Patrick’s Day,,True
+951519250937,2028-04-14,england-and-wales,Good Friday,,False
+59615651160,2028-04-14,northern-ireland,Good Friday,,False
+431076476767,2028-04-14,scotland,Good Friday,,False
+581197272171,2028-04-17,england-and-wales,Easter Monday,,True
+155642662052,2028-04-17,northern-ireland,Easter Monday,,True
+896832729416,2028-05-01,england-and-wales,Early May bank holiday,,True
+647525748947,2028-05-01,northern-ireland,Early May bank holiday,,True
+618852742655,2028-05-01,scotland,Early May bank holiday,,True
+353404737592,2028-05-29,england-and-wales,Spring bank holiday,,True
+948415128357,2028-05-29,northern-ireland,Spring bank holiday,,True
+913716466052,2028-05-29,scotland,Spring bank holiday,,True
+193814507374,2028-07-12,northern-ireland,Battle of the Boyne (Orangemen’s Day),,False
+197750690496,2028-08-07,scotland,Summer bank holiday,,True
+992743034770,2028-08-28,england-and-wales,Summer bank holiday,,True
+351476950052,2028-08-28,northern-ireland,Summer bank holiday,,True
+295970090579,2028-11-30,scotland,St Andrew’s Day,,True
+875968178394,2028-12-25,england-and-wales,Christmas Day,,True
+903174179618,2028-12-25,northern-ireland,Christmas Day,,True
+451553897782,2028-12-25,scotland,Christmas Day,,True
+821401030680,2028-12-26,england-and-wales,Boxing Day,,True
+845188056715,2028-12-26,northern-ireland,Boxing Day,,True
+668522563588,2028-12-26,scotland,Boxing Day,,True

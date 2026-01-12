@@ -27,3 +27,6 @@ powerbi/*.pbit
 !data/processed/dim_route.csv
 !data/processed/dim_guide.csv
 !data/processed/dim_date.csv
+!data/processed/dim_bank_holiday.csv
+!data/processed/bridge_bank_holiday_date.csv
+!data/processed/dim_region_division.csv
