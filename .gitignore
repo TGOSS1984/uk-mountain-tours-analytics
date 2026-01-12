@@ -32,3 +32,5 @@ powerbi/*.pbit
 !data/processed/dim_region_division.csv
 !data/processed/fact_bookings_2024_2025.csv
 !data/processed/fact_route_day_2024_2025.csv
+
+data/processed/*.sqlite
