@@ -34,3 +34,10 @@ powerbi/*.pbit
 !data/processed/fact_route_day_2024_2025.csv
 
 data/processed/*.sqlite
+
+# Weather raw pulls (large, optional to track)
+data/raw/weather_ukmo/*
+!data/raw/weather_ukmo/.gitkeep
+
+# Allow daily processed weather table for BI/ML
+!data/processed/fact_weather_daily_ukmo.csv
