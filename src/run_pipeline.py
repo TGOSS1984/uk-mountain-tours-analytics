@@ -84,11 +84,6 @@ def run(all_steps: bool = True, skip_weather: bool = False, skip_sql: bool = Fal
     with step("QUALITY: validate schema + ranges"):
         validate()
 
-    # 8) SQL warehouse (optional)
-    if not skip_sql:
-        with step("SQL: build sqlite warehouse"):
-            build_sqlite()
-
     # 9) ML (optional)
     if not skip_ml:
         with step("ML: train baseline + predict 2026"):
@@ -108,6 +103,12 @@ def run(all_steps: bool = True, skip_weather: bool = False, skip_sql: bool = Fal
             build_route_week()
             train_weekly()
             predict_weekly_2026()
+
+    # 10) SQL warehouse (always last, optional) (was 8, moved to 10)
+    if not skip_sql:
+        with step("SQL: build sqlite warehouse (final step)"):
+            build_sqlite()
+
 
 
 
