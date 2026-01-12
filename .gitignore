@@ -55,4 +55,5 @@ data/raw/weather_ukmo/*
 !data/processed/fact_forecast_week_2026.csv
 !data/processed/ml_metrics_weekly_time_split.json
 
+data/processed/*.duckdb
 

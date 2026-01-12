@@ -109,6 +109,10 @@ def run(all_steps: bool = True, skip_weather: bool = False, skip_sql: bool = Fal
         with step("SQL: build sqlite warehouse (final step)"):
             build_sqlite()
 
+        with step("SQL: build duckdb warehouse (final step)"):
+            from src.sql.build_duckdb import build_duckdb
+            build_duckdb()
+
 
 
 
