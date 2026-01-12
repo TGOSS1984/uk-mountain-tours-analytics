@@ -1,0 +1,6 @@
+[
+  {"guide_id": 1, "name": "Tom Goss", "email": "info@example.com", "phone": "+1 (234) 567-890", "bio": "Experienced Winter Mountaineer"},
+  {"guide_id": 2, "name": "Dave Hamilton", "email": "info@example.com", "phone": "+1 (234) 567-890", "bio": "Experienced Winter Mountaineer"},
+  {"guide_id": 3, "name": "Beth Kirk", "email": "info@example.com", "phone": "+1 (234) 567-890", "bio": "Experienced Winter Mountaineer"},
+  {"guide_id": 4, "name": "Clare Goss", "email": "info@example.com", "phone": "+1 (234) 567-890", "bio": "Experienced Winter Mountaineer"}
+]

@@ -1,0 +1,41 @@
+route_id,route_name,region,gpx_path,distance_km,duration_hours,difficulty,route_lat,route_lon
+1,Helvellyn via Striding Swirral Edge,lake_district,routes/lake_district/helvellyn-striding-swirral.gpx,12.0,5.0,hard,54.61579,-3.22929
+2,Blencathra via Hall's Fell Ridge,lake_district,routes/lake_district/blencathra-halls-fell.gpx,9.0,4.0,hard,54.37236,-3.05791
+3,Blencathra via Sharp Edge,lake_district,routes/lake_district/blencathra-sharp-edge.gpx,7.0,4.0,hard,54.57311,-3.18919
+4,Pavey Ark via Jack's Rake,lake_district,routes/lake_district/pavey-ark-jacks-rake.gpx,8.0,4.0,hard,54.43796,-3.0488
+5,Scafell Pike via Lord's Rake,lake_district,routes/lake_district/scafell-pike-lords-rake.gpx,13.0,5.5,hard,54.4112,-3.23604
+6,Bowfell via Climbers' Traverse,lake_district,routes/lake_district/bowfell-climbers-traverse.gpx,14.0,5.0,moderate,54.641,-3.03463
+7,Great Gable,lake_district,routes/lake_district/great-gable.gpx,10.0,4.0,hard,54.42645,-3.19203
+8,Pillar,lake_district,routes/lake_district/pillar.gpx,14.0,6.0,hard,54.68751,-2.88428
+9,Fairfield Horseshoe,lake_district,routes/lake_district/fairfield-horseshoe.gpx,17.0,7.0,hard,54.58429,-2.99732
+10,Crinkle Crags,lake_district,routes/lake_district/crinkle-crags.gpx,14.0,4.0,moderate,54.62815,-2.95872
+11,Snowdon via Crib Goch,wales,routes/wales/snowdon-via-crib-goch.gpx,12.0,5.0,severe,52.96836,-3.04169
+12,Tryfan North Face & Bristly Ridge,wales,routes/wales/tryfan-north-face-bristly-ridge.gpx,9.0,4.0,hard,52.81764,-3.83219
+13,Y Gribin (Glyderau),wales,routes/wales/ygribin.gpx,11.5,4.5,hard,52.22942,-4.24141
+14,Pen yr Ole Wen,wales,routes/wales/pen-yr-ole-wen.gpx,7.0,3.5,moderate,52.87175,-3.46655
+15,Carnedd Dafydd via Crib Lem Spur,wales,routes/wales/carnedd-dafydd-crib-lem.gpx,14.5,6.0,moderate,51.80516,-3.9858
+16,Cnicht,wales,routes/wales/cnicht.gpx,8.6,3.3,moderate,52.03482,-3.49316
+17,Moel Siabod,wales,routes/wales/moel-siabod.gpx,9.5,2.5,moderate,53.22514,-3.14349
+18,Nantlle Ridge,wales,routes/wales/nantlle-ridge.gpx,10.2,4.0,moderate,52.13951,-4.32351
+19,Cadair Idris,wales,routes/wales/cadair-idris.gpx,15.0,6.0,moderate,52.62049,-4.15745
+20,An Teallach,scotland,routes/scotland/anteallach.gpx,20.5,7.5,hard,56.62231,-3.4868
+21,Aonach Eagach,scotland,routes/scotland/aonacheagach.gpx,9.0,4.0,severe,57.84711,-5.26142
+22,Beinn Alligin,scotland,routes/scotland/beinnalligin.gpx,11.0,4.8,hard,57.94866,-4.5726
+23,Ben Macdui,scotland,routes/scotland/ben-macdui.gpx,17.5,6.1,hard,57.96682,-6.03089
+24,Ben Nevis via CMD Arete,scotland,routes/scotland/ben-nevis-cmd-arete.gpx,20.0,7.2,severe,57.88711,-4.26544
+25,Buachaille Etive Mor,scotland,routes/scotland/buachailleetivemor.gpx,13.7,5.3,hard,56.9125,-5.66111
+26,Grey Corries,scotland,routes/scotland/greycorries.gpx,21.4,7.9,hard,58.3993,-3.75568
+27,Liathach,scotland,routes/scotland/liathach.gpx,12.0,5.7,severe,58.26949,-5.81731
+28,Ring of Steall,scotland,routes/scotland/ring-of-steall.gpx,16.4,6.0,severe,57.75862,-3.42007
+29,Suilven,scotland,routes/scotland/suilven.gpx,20.0,6.5,severe,56.61035,-4.63582
+30,Kinder Scout via Red Brook,peak_district,routes/peak_district/kinder-scout-red-brook.gpx,15.2,5.0,moderate,53.5852,-2.39905
+31,Bleaklow,peak_district,routes/peak_district/bleaklow.gpx,15.5,4.0,easy,54.08849,-1.65457
+32,Chrome Hill & Parkhouse Hill,peak_district,routes/peak_district/chrome-hill-parkhouse.gpx,10.7,3.6,moderate,53.21039,-2.40344
+33,Mam Tor (Great Ridge),peak_district,routes/peak_district/mam-tor.gpx,12.74,3.2,moderate,53.27305,-2.06999
+34,High Seat,peak_district,routes/peak_district/high-seat.gpx,9.3,2.5,easy,53.54772,-2.13268
+35,Ingleborough,peak_district,routes/peak_district/ingleborough.gpx,15.0,3.8,moderate,53.60523,-1.58248
+36,Pen-y-Ghent,peak_district,routes/peak_district/pen-y-ghent.gpx,10.16,3.5,easy,54.13325,-2.47014
+37,Whernside,peak_district,routes/peak_district/whernside.gpx,18.0,5.6,moderate,53.91768,-2.09392
+38,Great Shunner Fell,peak_district,routes/peak_district/great-shunner-fell.gpx,15.0,4.6,easy,53.36106,-1.88515
+39,Wild Boar Fell,peak_district,routes/peak_district/wild-boar-fell.gpx,11.14,3.0,easy,53.3515,-2.11889
+40,Pen y Fan,wales,routes/wales/pen-y-fan.gpx,11.18,4.0,moderate,51.95399,-3.29426

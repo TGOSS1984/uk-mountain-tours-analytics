@@ -23,3 +23,6 @@ data/processed/*
 *.pbit
 powerbi/*.pbix
 powerbi/*.pbit
+
+!data/processed/dim_route.csv
+!data/processed/dim_guide.csv
