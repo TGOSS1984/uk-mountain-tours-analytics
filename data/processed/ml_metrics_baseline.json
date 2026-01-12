@@ -1,0 +1,10 @@
+{
+  "mae": 0.5320345569328772,
+  "rmse": 0.6833341212235865,
+  "r2": -0.07750365298452011,
+  "n_train": 10786,
+  "n_test": 2697,
+  "features": 34,
+  "target": "bookings_count",
+  "notes": "Baseline model uses calendar + route attributes + bank holiday flags (no full-year historical weather yet)."
+}

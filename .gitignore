@@ -35,9 +35,17 @@ powerbi/*.pbit
 
 data/processed/*.sqlite
 
+models/*
+!models/.gitkeep
+
+
 # Weather raw pulls (large, optional to track)
 data/raw/weather_ukmo/*
 !data/raw/weather_ukmo/.gitkeep
 
 # Allow daily processed weather table for BI/ML
 !data/processed/fact_weather_daily_ukmo.csv
+
+!data/processed/fact_forecast_2026.csv
+!data/processed/ml_metrics_baseline.json
+
