@@ -21,3 +21,6 @@ class SeedFiles:
     guides_json: Path = RAW_DIR / "guides.json"
 
 SEEDS = SeedFiles()
+
+VAT_RATE = 0.20
+RANDOM_SEED = 42
