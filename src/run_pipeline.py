@@ -99,6 +99,17 @@ def run(all_steps: bool = True, skip_weather: bool = False, skip_sql: bool = Fal
             train_time_split()
             predict_2026_v2()
 
+    if not skip_ml:
+        with step("ML: weekly model (train on 2024, test on 2025) + predict 2026 weekly"):
+            from src.transform.build_weekly_tables import build_route_week
+            from src.ml.train_forecast_weekly import train_time_split as train_weekly
+            from src.ml.predict_2026_weekly import predict as predict_weekly_2026
+
+            build_route_week()
+            train_weekly()
+            predict_weekly_2026()
+
+
 
 def main():
     parser = argparse.ArgumentParser(description="Run the end-to-end pipeline for the Power BI analytics project.")

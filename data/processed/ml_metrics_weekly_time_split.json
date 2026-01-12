@@ -1,0 +1,12 @@
+{
+  "grain": "route-week",
+  "split": "train=2024, test=2025",
+  "mae": 0.6059663032715568,
+  "rmse": 0.8297332988639837,
+  "r2": 0.8719361378744594,
+  "n_train": 2047,
+  "n_test": 2044,
+  "features": 19,
+  "target": "bookings_count",
+  "notes": "Weekly aggregation reduces daily Poisson noise and improves learnability. Features include route + calendar + weekly holiday/weekend counts + commercial signals."
+}

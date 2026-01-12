@@ -51,3 +51,8 @@ data/raw/weather_ukmo/*
 
 !data/processed/ml_metrics_time_split_v2.json
 !data/processed/fact_forecast_2026_v2.csv
+
+!data/processed/fact_forecast_week_2026.csv
+!data/processed/ml_metrics_weekly_time_split.json
+
+
