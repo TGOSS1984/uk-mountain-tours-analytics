@@ -1,0 +1,11 @@
+{
+  "split": "train=2024, test=2025",
+  "mae": 0.5892192426977008,
+  "rmse": 0.7168734076986186,
+  "r2": -0.20853503561089481,
+  "n_train": 6757,
+  "n_test": 6726,
+  "features": 42,
+  "target": "bookings_count",
+  "notes": "v2 adds weather-ready features (joined if available; deterministic seasonal fallback otherwise) and uses a time-based split."
+}
