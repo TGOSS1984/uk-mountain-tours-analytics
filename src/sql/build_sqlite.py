@@ -34,6 +34,13 @@ TABLES = [
     ("dim_region_division", "dim_region_division"),
     ("fact_bookings_2024_2025", "fact_bookings"),
     ("fact_route_day_2024_2025", "fact_route_day"),
+
+    # NEW: weekly
+    ("fact_route_week_2024_2025", "fact_route_week"),
+
+    # NEW: 2026 weekly forecast
+    ("fact_forecast_week_2026", "fact_forecast_week_2026"),
+
 ]
 
 
@@ -61,6 +68,14 @@ def _create_indexes(con: sqlite3.Connection) -> None:
     cur.execute("CREATE INDEX IF NOT EXISTS idx_bridge_hol_date ON bridge_bank_holiday_date(date);")
     cur.execute("CREATE INDEX IF NOT EXISTS idx_bridge_hol_id ON bridge_bank_holiday_date(bank_holiday_id);")
     cur.execute("CREATE INDEX IF NOT EXISTS idx_dim_bank_holiday_id ON dim_bank_holiday(bank_holiday_id);")
+
+    # Weekly actuals
+    cur.execute("CREATE INDEX IF NOT EXISTS idx_fact_route_week_route_id ON fact_route_week(route_id);")
+    cur.execute("CREATE INDEX IF NOT EXISTS idx_fact_route_week_iso ON fact_route_week(iso_year, iso_week);")
+
+    # Weekly forecast
+    cur.execute("CREATE INDEX IF NOT EXISTS idx_fcst_week_route_id ON fact_forecast_week_2026(route_id);")
+    cur.execute("CREATE INDEX IF NOT EXISTS idx_fcst_week_iso ON fact_forecast_week_2026(iso_year, iso_week);")
 
     con.commit()
 
