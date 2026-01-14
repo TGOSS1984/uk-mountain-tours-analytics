@@ -19,7 +19,6 @@ data/processed/*
 
 # Power BI
 *.pbi
-*.pbix
 *.pbit
 powerbi/*.pbix
 powerbi/*.pbit
