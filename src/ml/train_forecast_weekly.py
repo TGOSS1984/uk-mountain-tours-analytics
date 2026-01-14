@@ -41,19 +41,15 @@ def train_time_split(paths: Paths = Paths()) -> tuple[Path, Path]:
 
     # Keep only the columns we need (and be tolerant if extras exist)
     keep = [
-        "iso_year", "iso_week", "route_id",
-        "region", "difficulty",
-        "distance_km", "duration_hours",
-        "bank_holiday_days_any", "weekend_days",
-        "sales_ex_vat", "staff_cost", "margin_amount",
-        "discount_rate",
-        "bookings_count",
-        "week_start",
+    "iso_year", "iso_week", "route_id",
+    "region", "difficulty",
+    "distance_km", "duration_hours",
+    "bank_holiday_days_any", "weekend_days",
+    "bookings_count",
+    "week_start",
     ]
-    df = df[[c for c in keep if c in df.columns]].copy()
 
-    # Fill safe defaults
-    df["discount_rate"] = df["discount_rate"].fillna(0.0)
+    df = df[[c for c in keep if c in df.columns]].copy()
 
     # Time-based split
     train_df = df[df["iso_year"] == 2024].copy()

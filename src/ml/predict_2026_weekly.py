@@ -60,10 +60,6 @@ def predict(paths: Paths = Paths()) -> Path:
 
     # Basic feature frame
     df = scaffold.copy()
-    df["discount_rate"] = 0.0  # unknown for future; keep neutral
-    df["sales_ex_vat"] = 0.0   # unknown; keep neutral
-    df["staff_cost"] = 0.0
-    df["margin_amount"] = 0.0
 
     # One-hot encoding must match training
     df_enc = pd.get_dummies(df, columns=["region", "difficulty"], drop_first=False)
